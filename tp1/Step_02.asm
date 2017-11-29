@@ -1,4 +1,4 @@
-		org	$4
+		org		$4
 Vector_001	dc.l	Main
 		org	$500
 Main		move.b	#18,d0	; 18 -> D0.B
